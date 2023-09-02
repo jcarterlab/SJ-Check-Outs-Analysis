@@ -4,4 +4,4 @@ This notebook works with combined data from Saint James Hotel's current monthly 
 
 <br/>
 
-The notebook can be found [here.](SJ_check_outs_analysis.ipynb)
+The notebook can be found [here.](notebooks/SJ_check_outs_analysis.ipynb)
